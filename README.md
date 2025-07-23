@@ -1,3 +1,4 @@
+HEAD
 # Memory Match Game
 
 ##  Description
@@ -17,8 +18,10 @@ This is a simple memory game built using **HTML**, **CSS**, and **JavaScript (DO
 - CSS
 - JavaScript DOM
 
----
+
 
 ✅ Fully responsive  
 ✅ No external libraries (pure DOM)  
 ✅ Uses Devicon for stylish tech icons
+# memory-game
+>>>>>>> d1ff01931ba7f802470185e00a828453214acb50
